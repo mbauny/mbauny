@@ -1,16 +1,19 @@
-### Hi there 👋
+### Matthieu Bauny
 
-<!--
-**mbauny/mbauny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm a Lead Software engineer, living in Paris. I thrive in code, books and music :metal:
 
-Here are some ideas to get you started:
+#### Skills
+- C++, Qt
+- TypeScript
+- POO
+- Software architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Values
+- User first
+- Always be learning
+- Help others perform better
+
+#### Social
+- :notebook: [Blog](https://github.com/mbauny/blog#meet-the-engineer)
+- :bird: [Twitter](https:twitter.com/mbauny)
+- :handshake: [LinkedIn](https://www.linkedin.com/in/mbauny)
