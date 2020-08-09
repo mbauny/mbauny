@@ -15,5 +15,5 @@ Hi, I'm a Lead Software engineer, living in Paris. I thrive in code, books and m
 
 #### Social
 - :notebook: [Blog](https://github.com/mbauny/blog#meet-the-engineer)
-- :bird: [Twitter](https:twitter.com/mbauny)
+- :bird: [Twitter](https://twitter.com/mbauny)
 - :handshake: [LinkedIn](https://www.linkedin.com/in/mbauny)
