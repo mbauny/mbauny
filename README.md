@@ -1,6 +1,6 @@
 ### Matthieu Bauny
 
-Hi, I'm a Lead Software engineer, living in Paris. I thrive in code, books and music :metal:
+Hi, I'm a lead software engineer, living in Paris. I thrive in code, books and music :metal:
 
 #### Skills
 - C++, Qt
