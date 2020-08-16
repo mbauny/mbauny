@@ -4,7 +4,7 @@ Hi, I'm a lead software engineer, living in Paris. I thrive in code, books and m
 
 #### Skills
 - C++, Qt
-- TypeScript
+- TypeScript, JavaScript
 - POO
 - Software architecture
 
