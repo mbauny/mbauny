@@ -1,11 +1,11 @@
-### Matthieu Bauny
+### Hey there 👋
 
-Hi, I'm a :fr: lead software engineer, living in Paris. I thrive in code, books and music :metal:
+My name is Matthieu Bauny and I am a 🇫🇷 lead software engineer, living in Paris.
+I thrive in code, books and music 🤘
 
 #### Skills
-- C++, Qt
 - TypeScript, JavaScript
-- OOP
+- C++, Qt
 - Software architecture
 
 #### Values
@@ -14,6 +14,6 @@ Hi, I'm a :fr: lead software engineer, living in Paris. I thrive in code, books 
 - Help others perform better
 
 #### Social
-- :notebook: [Blog](https://github.com/mbauny/blog#meet-the-engineer)
-- :bird: [Twitter](https://twitter.com/mbauny)
-- :handshake: [LinkedIn](https://www.linkedin.com/in/mbauny)
+- 📓 [Blog](https://github.com/mbauny/blog#meet-the-engineer)
+- 🐦 [Twitter](https://twitter.com/mbauny)
+- 🤝 [LinkedIn](https://www.linkedin.com/in/mbauny)
