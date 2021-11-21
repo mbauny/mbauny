@@ -1,7 +1,8 @@
 ### Hey there 👋
 
-My name is Matthieu Bauny and I am a 🇫🇷 lead software engineer, living in Paris.
-I thrive in code, books and music 🤘
+I'm Matthieu Bauny, a 🇫🇷 lead software engineer living in Paris 🥖. I thrive in code 👨‍💻, books 📚 and music 🤘
+
+
 
 #### Skills
 - TypeScript, JavaScript
@@ -17,3 +18,7 @@ I thrive in code, books and music 🤘
 - 📓 [Blog](https://github.com/mbauny/blog#meet-the-engineer)
 - 🐦 [Twitter](https://twitter.com/mbauny)
 - 🤝 [LinkedIn](https://www.linkedin.com/in/mbauny)
+
+<br/>
+
+Cheers 🍻
