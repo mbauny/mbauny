@@ -10,6 +10,7 @@ I'm Matthieu Bauny, a 🇫🇷 lead software engineer living in Paris 🥖. I th
 - Software architecture
 
 #### Values
+- Be humble
 - User first
 - Always be learning
 - Help others perform better
