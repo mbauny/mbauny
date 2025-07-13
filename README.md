@@ -3,7 +3,7 @@
 I'm a 🇫🇷 lead software engineer living in Paris. I thrive in code, books and music 🤘
 
 #### Skills
-- TypeScript, JavaScript
+- TypeScript, JavaScript, Node.js, NestJS, Angular
 - C++, Qt
 - Software architecture
 
