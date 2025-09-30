@@ -5,6 +5,7 @@ I'm a 🇫🇷 lead software engineer living in Paris. I thrive in code, books a
 #### Skills
 - TypeScript, JavaScript, Node.js, NestJS, Angular
 - C++, Qt
+- PostgreSQL
 - Software architecture
 
 #### Values
